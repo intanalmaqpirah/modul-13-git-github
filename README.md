@@ -1,18 +1,15 @@
-# Modul 13 - Git dan GitHub
+# Modul 13 - Git & GitHub
 
-Proyek ini digunakan untuk latihan dasar kontrol versi menggunakan Git dan GitHub.
+## Deskripsi Proyek
+Proyek ini digunakan untuk latihan penggunaan Git dan GitHub, termasuk commit, branch, merge, dan dokumentasi repository.
 
 ## Fitur
+- Menampilkan pesan dengan JavaScript
+- Mengubah tampilan menggunakan CSS
+- Mengelola versi menggunakan Git
+- Membuat dan menggabungkan branch
 
-- Struktur HTML sederhana
-
-- Styling CSS
-
-- Interaksi JavaScript sederhana
-
-## Identitas
-
-Nama: INTAN ALMAQPIRAH
-
-NIM: 2402014
-
+## Identitas Mahasiswa
+Nama: (isi nama kamu)
+Kelas: (isi kelas kamu)
+NIM: (isi NIM kamu)
