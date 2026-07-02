@@ -9,6 +9,6 @@ const btnUbah = document.getElementById("btnUbah");
 btnUbah.addEventListener("click", function() {
 
   deskripsi.textContent = "Deskripsi berhasil diubah menggunakan JavaScript.";
-
+console.log("Ini dari branch fitur-tampilan");
 });
 
